@@ -1,0 +1,16 @@
+{
+  "test_API.py::TestAPIArguments::()::test_API_argument_buffer_length_0": true, 
+  "test_API.py::TestAPIArguments::()::test_API_argument_buffer_null": true, 
+  "test_API.py::TestAPIArguments::()::test_API_argument_option_3": true, 
+  "test_API.py::TestAPIArguments::()::test_API_argument_version_2": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_can_slave_txrx_id": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_can_speed_index": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_enable_uart_while_disable_usb": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_enabledPeripherals": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_i2c_slave_address": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_tag": true, 
+  "test_BCA.py::TestBootloaderConfigurationArea::()::test_BCA_usb_vid_pid": true, 
+  "test_CRC.py::TestCRC::()::test_CRC_check_failed": true, 
+  "test_CRC.py::TestCRC::()::test_CRC_check_out_of_range": true, 
+  "test_CRC.py::TestCRC::()::test_CRC_check_pass": true
+}
